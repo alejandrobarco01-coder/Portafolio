@@ -1,6 +1,6 @@
 # Portafolio de Alejandro Barco
 
-Sitio estático en HTML, CSS y JavaScript para presentar el perfil y el catálogo de proyectos. El portafolio cuenta como el primer proyecto de la actividad. Incluye EduAlert y el Laboratorio de Pipelines; hay dos espacios para completar cuando estén listos los proyectos restantes.
+Sitio estático en HTML, CSS y JavaScript para presentar el perfil y el catálogo de proyectos. El portafolio cuenta como el primer proyecto de la actividad. Incluye el Taller de Patrones y el Laboratorio de Pipelines; hay dos espacios para completar cuando estén listos los proyectos restantes.
 
 ## Ejecutar localmente
 
