@@ -1,6 +1,6 @@
 # Portafolio de Alejandro Barco
 
-Sitio estático en HTML, CSS y JavaScript para presentar el perfil y el catálogo de proyectos. El portafolio cuenta como el primer proyecto de la actividad. Incluye el Taller de Patrones, el Laboratorio de Pipelines y el Sistema de Diseño Atómico; hay dos espacios para completar cuando estén listos los proyectos restantes.
+Sitio estático en HTML, CSS y JavaScript para presentar el perfil y el catálogo de proyectos. El portafolio cuenta como el primer proyecto de la actividad. Incluye el Taller de Patrones, el Laboratorio de Pipelines y el Sistema de Diseño Atómico; queda un espacio para el proyecto restante.
 
 ## Ejecutar localmente
 
@@ -13,8 +13,9 @@ El workflow `.github/workflows/deploy-pages.yml` construye y publica esta carpet
 ## Antes de entregar
 
 - Actualiza el perfil y las tecnologías para reflejar tu experiencia real.
-- Completa los proyectos 4 y 5 con sus repositorios y demos.
+- Completa el proyecto 5 con su repositorio y demo.
 - Confirma que los repositorios sean públicos y activa GitHub Pages.
+
 
 
 
